@@ -4,10 +4,10 @@ import Message from "../NavMessage/message.js"
 import "./style.css"
 
 
-function Nav() {
+function Nav(props) {
     return (
-        <nav class="navbar navbar-light bg-light">
-        <Message />
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        {props.children}
         </nav>
     );
 }

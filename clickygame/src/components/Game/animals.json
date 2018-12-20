@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1, 
+        "path":"https://images.unsplash.com/photo-1545158821-be65b3aaebbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "alt": "squirrel",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "path": "https://images.unsplash.com/photo-1506140609452-9276d0702bd0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80",
+        "alt": "fox",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "path": "https://images.unsplash.com/photo-1545064119-261e94e11534?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "alt": "butterfly",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "path": "https://images.unsplash.com/photo-1544945500-d5acd9ae5e04?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "alt": "elephant",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "path": "https://images.unsplash.com/photo-1545006398-2cf47cd87b90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=615&q=80",
+        "alt": "frog",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "path": "https://images.unsplash.com/photo-1544908016-c120e79f5602?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "alt": "python",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "path": "https://images.unsplash.com/photo-1544801696-386067ad598f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "alt": "bird",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "path": "https://images.unsplash.com/photo-1544779493-aa344a6ddaac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "alt": "koala",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "path": "https://images.unsplash.com/photo-1544795189-d929fbe4fa2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+        "alt": "wolf",
+        "clicked": false
+    }
+]
